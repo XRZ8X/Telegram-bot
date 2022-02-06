@@ -1,2 +1,2 @@
-BOT_TOKEN = "1816198459:AAEG2c-RD1cTZCJqCW9YcTUf13oYIRJ8vz8"
-APP_URL = "https://sidrabot.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5023392014:AAGpMjDWKq_hkuqq9faSofNo1eqU6kO_qrY"
+APP_URL = "https://mtgar.herokuapp.com/" + BOT_TOKEN
